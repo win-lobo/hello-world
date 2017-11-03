@@ -1,2 +1,5 @@
-# hello-world
-Having a look around GitHub
+#hello-world
+Hi! Edwin here,
+
+A Computer Science and Technology Master's Student
+Tianjin University of Technology
