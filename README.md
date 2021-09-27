@@ -1,5 +1,5 @@
 #hello-world
 Hi! Edwin here,
 
-A Computer Science and Technology Master's Student
+Computer Science and Technology student
 Tianjin University of Technology
